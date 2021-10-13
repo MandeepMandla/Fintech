@@ -2,7 +2,7 @@ version: '3'
 
 services:
   flaskapp:
-    build: ./docker_test
+    build: ./Inertia
     ports:
       - "80:80"
     network_mode: host
