@@ -1,0 +1,2 @@
+comments=[]
+print(len(comments))
